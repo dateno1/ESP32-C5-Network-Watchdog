@@ -96,7 +96,7 @@ You Can Quickly Tune Operational Timing Scripts Directly Inside the Top Definiti
 
 5. Run 'pio run -t upload' (If You are Using Windows Run '"%AppData%\Python\Python<span style="color:#ff6f00; font-weight:bold;">314</span>\Scripts\pio.exe" run -t upload')
 
-6. If You Want to Debug by USB Cable Run 'pio device monitor --baud 115200' (If You are Using Windows Run '"%AppData%\Python\Python<span style="color:#ff6f00; font-weight:bold;">314</span>\Scripts\pio.exe" monitor --baud 115200')
+6. If You Want to Debug by USB Cable Run 'pio device monitor --baud 115200' (If You are Using Windows Run '"%AppData%\Python\Python<style type="text/css>{color:blue}314</style>\Scripts\pio.exe" monitor --baud 115200')
 
 ---
 
