@@ -1,0 +1,6 @@
+{
+  "name": "ESP32Ping-Patched",
+  "version": "1.7.0-patched",
+  "description": "Vendored copy of marian-craciunescu/ESP32Ping 1.7 — log_i demoted to log_d in ping.cpp (silences per-ping log spam)",
+  "frameworks": "arduino"
+}
