@@ -264,3 +264,9 @@ PlatformIO를 통해 관리됩니다 (`platformio.ini`, ESP32 코어 3.x / pioar
 * 하단 푸터 링크를 통해 시리얼 모니터의 **PING 로그** 출력을 토글할 수 있습니다(이 설정 상태는 리부팅 후에도 유지됨).  
 * 본 포털은 별도의 인증 절차가 없으므로 안전하고 신뢰할 수 있는 네트워크에서만 사용하십시오.  
   
+===============================================  
+  
+# Screenshot&Photo  
+
+<img src="/Photos/Config%20Portal.png" width="192" height="887">  
+<img src="/Photos/Photo.jpg" width="1008" height="567">  
