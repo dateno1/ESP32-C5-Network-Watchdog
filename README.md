@@ -270,3 +270,8 @@ PlatformIO를 통해 관리됩니다 (`platformio.ini`, ESP32 코어 3.x / pioar
 
 <img src="/Photos/Config%20Portal.png" width="192" height="887">  
 <img src="/Photos/Photo.jpg" width="1008" height="567">  
+
+"This project is licensed under the Apache License 2.0.  
+However, it includes and links to ESP32Ping, which is licensed under the GNU Lesser General Public License v3 (LGPL v3).  
+See the /libs folder for the LGPL v3 license text."  
+  
